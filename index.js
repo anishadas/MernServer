@@ -7,7 +7,6 @@ import userRoutes from './routes/users.js';
 import dotenv from 'dotenv';
 // import { OAuth2Client } from 'google-auth-library';
 // import { JsonWebTokenError } from 'jsonwebtoken';
-// google 
 
 
 // initialize
